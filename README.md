@@ -1,6 +1,6 @@
 # VideoEffects
 
-C++ and glsl code that manipulates video textures to create a generative video effects. 
+C++ and glsl code that manipulates video textures to create generative video effects. 
 
 These classes can be used for two different use cases: 
 * create a tool to manipulate different videos, showing each filter pass hooked up to a variable sliders; useful for visual prototyping
