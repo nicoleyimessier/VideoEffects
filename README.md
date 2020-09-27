@@ -2,9 +2,9 @@
 
 C++ and glsl code that manipulates video textures to create a glitch effect. 
 
-These classes were used for two different outputs: 
-* created a tool for designers to manipulate different videos, showing each filter pass hooked up to a variable sliders
-* code was used in final software to create generative video effects
+These classes can be used for two different use cases: 
+* create a tool to manipulate different videos, showing each filter pass hooked up to a variable sliders; useful for visual prototyping
+* use in software for generative video effects
 
 ![Tool](https://github.com/nicoleyimessier/VideoEffects/blob/master/documentation/imgs/tools.png)
 
