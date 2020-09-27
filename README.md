@@ -1,6 +1,6 @@
 # VideoEffects
 
-C++ and glsl code that manipulates video textures to create a glitch effect. 
+C++ and glsl code that manipulates video textures to create a generative video effects. 
 
 These classes can be used for two different use cases: 
 * create a tool to manipulate different videos, showing each filter pass hooked up to a variable sliders; useful for visual prototyping
@@ -14,7 +14,7 @@ See [videos](https://github.com/nicoleyimessier/VideoEffects/tree/master/documen
 
 This code was written in C++ (openFrameworks) and glsl. 
 
-A list of relavaent class are below: 
+A list of relevant class/code descriptions are below: 
 * [VideoEffects](https://github.com/nicoleyimessier/VideoEffects/tree/master/src/VideoEffects): c++ class that uses shaders to create a mutli-pass generative effect on video textures 
 * [Video](https://github.com/nicoleyimessier/VideoEffects/tree/master/src/Video): video player wrapper for HAP or WMF 
 * [Shader](https://github.com/nicoleyimessier/VideoEffects/tree/master/src/shaders): various shaders for different effects including displacement, blur, and more. 
